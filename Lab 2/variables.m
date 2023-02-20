@@ -1,0 +1,13 @@
+p_r = 3*746; %Power in watts (W)
+v_r = 220; %Rated Voltage (V)
+P = 4; %Number of poles
+f_s = 60; %Rated frequency (Hz)
+n_r = 1710; %Rated speed (rpm)
+T_r = 11.9; %Rated torque (Nm)
+I_r = 5.8; %Rated current (A)
+r_s = 0.435; %Stator resistance (Ohms)
+X_ls = 0.754; %Stator reactance (Ohms)
+X_m = 26.13; %Magnetizing reactance (Ohms)
+X_lr = 0.754; %Rotor reactance (Ohms)
+r_r = 0.816; %Rotor resistance (Ohms)
+J = 0.089; %Moment of inertia (kg.m^2)
